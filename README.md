@@ -8,19 +8,19 @@ Create an app to search for movies.
 ### APIs
 
 - https://omdbapi.com/
-- API key: 4287ad07
+- API key needed
 
 ### Requirements
 
-✅ It should have an input and a button to search for a movie.
-✅ Display the matching movies showing their title, year and poster.
-✅ Make the matching movies grid responsive.
+✅ It should have an input and a button to search for a movie.<br/>
+✅ Display the matching movies showing their title, year and poster.<br/>
+✅ Make the matching movies grid responsive.<br/>
 
 First iteration:
 
-✅ Avoid the same search to trigger again when clicking the button, if the input has not changed.
-✅ Automatically trigger the search when typing.
-✅ Avoid the search to show previous results when finished typing (debounce).
+✅ Avoid the same search to trigger again when clicking the button, if the input has not changed.<br/>
+✅ Automatically trigger the search when typing.<br/>
+✅ Avoid the search to show previous results when finished typing (debounce).<br/>
 
 ## Implementation
 
